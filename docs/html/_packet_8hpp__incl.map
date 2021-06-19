@@ -1,0 +1,7 @@
+<map id="include/Packet.hpp" name="include/Packet.hpp">
+<area shape="rect" id="node1" title="Represents a packet of data to be sent between server and client." alt="" coords="197,5,330,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node3" href="$_command_8hpp.html" title="Represents an actionable command by the user." alt="" coords="165,80,271,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="236,155,291,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="346,80,405,107"/>
+</map>

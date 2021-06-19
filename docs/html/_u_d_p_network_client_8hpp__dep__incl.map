@@ -1,0 +1,11 @@
+<map id="include/UDPNetworkClient.hpp" name="include/UDPNetworkClient.hpp">
+<area shape="rect" id="node1" title="Represents a UDP network client for the app." alt="" coords="162,5,366,32"/>
+<area shape="rect" id="node2" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="229,229,326,256"/>
+<area shape="rect" id="node3" href="$_u_d_p_network_client_8cpp.html" title="Entry point into the program." alt="" coords="346,80,527,107"/>
+<area shape="rect" id="node4" href="$_app_8hpp.html" title="App class interface." alt="" coords="207,80,322,107"/>
+<area shape="rect" id="node5" href="$_app_8cpp.html" title="Class for running paint app." alt="" coords="177,155,269,181"/>
+<area shape="rect" id="node6" href="$_fill_display_8cpp.html" title="FillDisplay implementation, all fill screen actions are commands." alt="" coords="384,229,512,256"/>
+<area shape="rect" id="node7" href="$_draw_8hpp.html" title="Drawing actions interface." alt="" coords="32,155,153,181"/>
+<area shape="rect" id="node9" href="$_fill_display_8hpp.html" title="Fill display actions interface." alt="" coords="345,155,496,181"/>
+<area shape="rect" id="node8" href="$_draw_8cpp.html" title="Draw implementation, all drawing actions are commands." alt="" coords="43,229,142,256"/>
+</map>

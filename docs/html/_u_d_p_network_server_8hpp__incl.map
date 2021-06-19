@@ -1,0 +1,8 @@
+<map id="include/UDPNetworkServer.hpp" name="include/UDPNetworkServer.hpp">
+<area shape="rect" id="node1" title="Represents a UDP network server for the app." alt="" coords="76,5,283,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="30,155,164,181"/>
+<area shape="rect" id="node3" href="$_command_8hpp.html" title="Represents an actionable command by the user." alt="" coords="189,155,296,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="215,229,270,256"/>
+<area shape="rect" id="node5" href="$_packet_8hpp.html" title="Represents a packet of data to be sent between server and client." alt="" coords="217,80,305,107"/>
+<area shape="rect" id="node6" title=" " alt="" coords="370,155,429,181"/>
+</map>
